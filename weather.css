@@ -9,14 +9,14 @@ body {
   background-color: #505562;
   background-size: cover;
   background-position: top center;
-  background-image: url('weather2.jpg');
+  background-image: url('weather.jpg');
 }
 /*.container{
 width: 500px;
 margin: 20px auto;
 position: relative; 
 overflow-x: visible;
-background-image: url('weather2.jpg');
+background-image: url('weather.jpg');
 }
 */
 .app-wrap {
